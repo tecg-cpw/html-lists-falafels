@@ -1,0 +1,18 @@
+/******************/
+/*** Custom CSS ***/
+/******************/
+
+body{
+	width: 780px;
+	margin: 0 auto;
+	font-family: Cambria, Georgia, serif;
+}
+img{
+	margin-top: 10px;
+}
+dl, dt, dd, ol, li{
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
